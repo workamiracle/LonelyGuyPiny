@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h4>I am a ✨Senior Software Developer✨ who has been working in this field for 6 years.</h3>
 - 💬 Feel free to reach out to me when you think I can help you.<br/>
 - 📫 How to reach me: lonelyguypiny@gmail.com
-
-
-
+<br />
+<br />
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonelyguypiny&label=Profile%20views&color=0e75b6&style=flat" alt="lonelyguypiny" /> </p>
 
