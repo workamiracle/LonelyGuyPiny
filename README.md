@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Feel free to reach out to me when you think I can help you.<br/>
 - 📫 How to reach me: lonelyguypiny@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonelyguypiny" alt="lonelyguypiny" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=lonelyguypiny" alt="lonelyguypiny" /> </p>
 
 <h3>Programming Languages</h3> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
