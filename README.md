@@ -84,9 +84,9 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h3>📈 My GitHub Stats:</h3>
+<h3 align='center>📈 My GitHub Stats:</h3>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
+<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
 <img src="https://github-readme-stats.vercel.app/api?username=LonelyGuyPiny&show_icons=true" alt="LonelyGuyPiny" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonelyguypiny&" alt="lonelyguypiny" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonelyguypiny&" alt="lonelyguypiny" /></div>
