@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 <h3>📈 My GitHub Stats:</h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
-<img src="https://github-readme-stats.vercel.app/api?username=LonelyGuyPiny&show_icons=true" alt="LonelyGuyPiny" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=LonelyGuyPiny&show_icons=true" alt="LonelyGuyPiny" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonelyguypiny&" alt="lonelyguypiny" /></p>
