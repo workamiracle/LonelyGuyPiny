@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 <h3 align='center>📈 My GitHub Stats:</h3>
 
 
-<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
 <img src="https://github-readme-stats.vercel.app/api?username=LonelyGuyPiny&show_icons=true" alt="LonelyGuyPiny" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonelyguypiny&" alt="lonelyguypiny" /></div>
