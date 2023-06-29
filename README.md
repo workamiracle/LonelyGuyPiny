@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonelyguypiny&label=Profile%20views&color=0e75b6&style=flat" alt="lonelyguypiny" /> </p>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=lonelyguypiny" alt="lonelyguypiny" /> </p>
-
 <h3>Programming Languages</h3> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -81,9 +77,3 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h3>📈 My GitHub Stats:</h3>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyGuyPiny&layout=compact" alt="LonelyGuyPiny" />
-<img src="https://github-readme-stats.vercel.app/api?username=LonelyGuyPiny&show_icons=true" alt="LonelyGuyPiny" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonelyguypiny&" alt="lonelyguypiny" />
