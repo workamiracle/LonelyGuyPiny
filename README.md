@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h4>I am a ✨Senior Software Developer✨ with over 6 years of experience.</h3>
 - 💬 Feel free to reach out to me when you think I can help you.<br/>
-- 📫 How to reach me: *lonelyguy1015@gmail.com*
+- 📫 How to reach me: lonelyguy1015@gmail.com
 <br />
 <br />
 <br />
